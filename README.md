@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<--
 - 🔭 I’m currently working on my thesis!
 - 🌱 And I needed to set up this account!!
 - 🥝 ...
